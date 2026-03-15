@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+*.log
+
+# Raw and large data files
+data/raw/
+data/interim/
+data/processed/
+*.zip
+*.parquet
+*.txt
+
+# Temporary files
+*.tmp
+*.bak
