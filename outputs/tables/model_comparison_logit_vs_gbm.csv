@@ -1,0 +1,3 @@
+model,test_roc_auc,test_pr_auc
+logistic_regression,0.6727037818638278,0.0191278492434072
+hist_gradient_boosting,0.8056357870930376,0.039339351729980473

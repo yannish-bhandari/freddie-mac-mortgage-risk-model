@@ -1,0 +1,5 @@
+metric,value
+train_roc_auc,0.8545708145909493
+test_roc_auc,0.6727037818638278
+train_pr_auc,0.05929857897540857
+test_pr_auc,0.0191278492434072

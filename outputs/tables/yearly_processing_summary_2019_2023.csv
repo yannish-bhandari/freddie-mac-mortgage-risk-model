@@ -1,0 +1,6 @@
+year,orig_rows,orig_cols,svcg_rows,svcg_cols,orig_file,svcg_file
+2019,50000,33,1847477,32,orig_2019_typed.parquet,svcg_2019_typed.parquet
+2020,50000,33,2340586,32,orig_2020_typed.parquet,svcg_2020_typed.parquet
+2021,50000,33,2291290,32,orig_2021_typed.parquet,svcg_2021_typed.parquet
+2022,50000,33,1788639,32,orig_2022_typed.parquet,svcg_2022_typed.parquet
+2023,50000,33,1223737,32,orig_2023_typed.parquet,svcg_2023_typed.parquet

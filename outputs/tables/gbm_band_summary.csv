@@ -1,0 +1,6 @@
+risk_band,loan_count,bad_rate,avg_score,policy_action
+Very Low,10000,0.0005,0.0011269148824814609,Auto-approve / standard monitoring
+Low,10000,0.0016,0.0020756147851479804,Approve / standard review
+Medium,10000,0.0021,0.0034390089185328465,Manual review / request additional documentation
+High,10000,0.007,0.00652089942000178,Senior underwriter review / tighter exception policy
+Very High,10000,0.0197,0.023383798325326412,Enhanced review / possible decline
